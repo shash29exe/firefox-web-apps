@@ -1,0 +1,86 @@
+.browser-toolbox-background {
+    height: 70px;
+}
+
+#tabbrowser-tabs {
+    display: none !important;
+}
+
+#PersonalToolbar {
+    display: none !important;
+}
+
+#firefox-view-button {
+    display: none !important;
+}
+
+#alltabs-button {
+    display: none !important;
+}
+
+#new-tab-button {
+    display: none !important;
+}
+
+.titlebar-spacer {
+    display: none !important;
+}
+
+#customizableui-special-spring1 {
+    display: none !important;
+}
+
+#customizableui-special-spring1 {
+    display: none !important;
+}
+
+#customizableui-special-spring2 {
+    display: none !important;
+}
+
+#star-button-box {
+    display: none !important;
+}
+
+#fxa-toolbar-menu-button {
+    display: none !important;
+}
+
+#unified-extensions-button {
+    display: none !important;
+}
+
+#urlbar-searchmode-switcher {
+    display: none !important;
+}
+
+#tracking-protection-icon-container {
+    display: none !important;
+}
+
+#identity-icon-box {
+    display: none !important;
+}
+
+#urlbar-input {
+    pointer-events: none !important;
+    caret-color: transparent !important;
+}
+
+#urlbar-input-container {
+    pointer-events: none !important;
+}
+
+#urlbar-background {
+    border: none !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.urlbar-input-box {
+    text-align: center;
+}
+
+#PanelUI-menu-button {
+    display: none !important;
+}
