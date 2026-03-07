@@ -14,3 +14,6 @@
 ```bash
 firefox --profile "/home/ИМЯПОЛЬЗОВАТЕЛЯ/.mozilla/firefox/ПРОФИЛЬ" example.com
 ```
+
+## Скриншот
+![](https://raw.githubusercontent.com/shash29exe/firefox-web-apps/refs/heads/main/img/image.png)
