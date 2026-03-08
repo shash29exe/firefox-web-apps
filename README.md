@@ -91,7 +91,7 @@ TITLE_GREP   - Содержимое в заголовке окна для опр
 
     URL="https://vk.com"
     PROFILE_PATH="/home/shash29/.mozilla/firefox/beglofmk.webapps-esr"
-    ICON_PATH="/home/shash29/icons/rutracker.png"
+    ICON_PATH="/home/shash29/icons/vk.png"
     TITLE_GREP="ВКонтакте"
 
     firefox --no-remote --profile "$PROFILE_PATH" --class "dontchangethis" --new-window "$URL" >/dev/null 2>&1 &
